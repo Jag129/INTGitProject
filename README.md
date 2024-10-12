@@ -11,6 +11,7 @@
 
 Let's get started...
 
+
 ## Part I: Branches 
 
 Create the following git commit tree.
