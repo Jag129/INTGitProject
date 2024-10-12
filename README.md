@@ -14,6 +14,7 @@ Let's get started...
 
 ## Part I: Branches 
 
+
 Create the following git commit tree.
 You can add any file you want in each commit, but the message for each commit must be exactly the same as denoted in the below graph (`c1`, `c2`,..., `c12`). 
 Note the (lightweight) tags in commit `c8`. 
